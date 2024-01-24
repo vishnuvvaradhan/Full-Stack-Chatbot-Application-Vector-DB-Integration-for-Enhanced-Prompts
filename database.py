@@ -11,6 +11,8 @@ from sentence_transformers import SentenceTransformer
 import pinecone
 from pinecone import Pinecone
 
+#Deployed on Lambda
+
 
 class WWGSDataScraper: 
     embedding_model_scraper = SentenceTransformer('all-MiniLM-L6-v2')
@@ -76,8 +78,6 @@ class WWGSDataScraper:
                 'Product Name': self.product_name,
                 'Product Information': cleaned_information
             }
-
-            #print(self.golf_lanucher_product)
 
             self.product_info_list.append(self.golf_lanucher_product)
         print(len(self.product_info_list))
