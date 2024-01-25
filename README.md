@@ -14,3 +14,8 @@ Application UI:
 ![image](https://github.com/vishnuvvaradhan/Full-Stack-Chatbot-Application-Vector-DB-Integration-for-Enhanced-Prompts/assets/144381362/b0f278a3-336d-46fa-883f-9faf1f686dc5)
 
 
+Pinecone VectorDB:
+![image](https://github.com/vishnuvvaradhan/Full-Stack-Chatbot-Application-Vector-DB-Integration-for-Enhanced-Prompts/assets/144381362/00faa8bb-0564-4474-9456-136566449918)
+
+
+
